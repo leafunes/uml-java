@@ -3,7 +3,8 @@
 ###Descripcion
 Se debe ser capaz de crear una clase con nombre, privacidad y privacidad del contructor. Se debe ver la representacion en java en un archivo .class llamado como el nombre de la clase.
 
-###Criterios de aceptacion 
+###Criterios de aceptacion
+
 ####Criterio 1
 Dada la clase llamada *Persona*, con privacidad publica y constructor publico, se debe crear un archivo llamado *persona.class* en la carpeta que esta corriendo el programa, con el contenido:
 
@@ -31,6 +32,7 @@ public class Persona{
 ~~~
 
 ###Tareas (Las horas incluyen testeo)
+
 | Número | Descripción | Horas | 
 | ------ | ------ | :------: |
 | 0 | Crear la clase Class, para que permita definir niveles de privacidad | 6 |
