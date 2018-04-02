@@ -1,11 +1,11 @@
-##US1: Crear una clase y ver su representacion en Java (20hs)
+## US1: Crear una clase y ver su representacion en Java (20hs)
 
-###Descripcion
+### Descripcion
 Se debe ser capaz de crear una clase con nombre, privacidad y privacidad del contructor. Se debe ver la representacion en java en un archivo .class llamado como el nombre de la clase.
 
-###Criterios de aceptacion
+### Criterios de aceptacion
 
-####Criterio 1
+#### Criterio 1
 Dada la clase llamada *Persona*, con privacidad publica y constructor publico, se debe crear un archivo llamado *persona.class* en la carpeta que esta corriendo el programa, con el contenido:
 
 ~~~Java
@@ -18,7 +18,7 @@ public class Persona{
 }
 ~~~
 
-####Criterio 2
+#### Criterio 2
 Dada la clase llamada *Persona*, con privacidad publica y constructor privado, se debe crear un archivo llamado *persona.class* en una capeta que le usuario seleccione, con el contenido:
 
 ~~~Java
@@ -31,7 +31,7 @@ public class Persona{
 }
 ~~~
 
-###Tareas (Las horas incluyen testeo)
+### Tareas (Las horas incluyen testeo)
 
 | Número | Descripción | Horas | 
 | ------ | ------ | :------: |

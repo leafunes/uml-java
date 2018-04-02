@@ -1,10 +1,12 @@
-##US2: Agregar un field a una clase y ver su representacion en java (14h)
+## US2: Agregar un field a una clase y ver su representacion en java (14h)
 
-###Descripcion
+### Descripcion
+
 Se debe ser capaz de agregar un field **nativo** con un nombre y un nivel de privacidad a una clase pre-existente. Se debe ver la representacion java del field dentro de la clase seleccionada.
 
-###Criterios de aceptacion 
-####Criterio 1
+### Criterios de aceptacion
+
+#### Criterio 1
 
 Dada la clase pre-existente (en memoria) *Persona*, se le agrega el field *edad* de tipo *int*, de privacidad *privada*, la representacion que se debe ver es:
 
@@ -27,7 +29,8 @@ public class Persona{
 }
 ~~~
 
-###Tareas (Las horas incluyen testeo)
+### Tareas (Las horas incluyen testeo)
+
 | Número | Descripción | Horas | 
 | ------ | ------ | :------: |
 | 0 | Crear la clase NativeField, y que permita definir niveles de privacidad y **tipos nativos** | 4 |
